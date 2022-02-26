@@ -72,18 +72,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="60" height="40"/>
   </a>
-  <a>
-    <img src="src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="40" width="40" alt="HTML" width="40px" height="40" />
- </a>
   
-  <a>
-     <img height="40" width="40" alt="CSS" width="26px" src="icons/css3.svg" />
- </a>
- 
- <a>
-   <img height="40" width="40" alt="JavaScript" width="26px" src="icons/js.svg" />
- </a>
-
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
   </a> 
@@ -125,9 +114,11 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   
-  <a>
-    <img height="45" width="45" alt="Rust" src="icons/rust.svg" />
-  </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+    
+
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
