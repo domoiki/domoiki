@@ -4,21 +4,19 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumya-jit.tech/)**
+- 🙋‍♂️ All about me is at **[My Website](https://domoiki.github.io/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Umm, Something Intresting`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except Maths & Love :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time to watching anime and playing games
 
 ## 🛠️ Technologies and Tools I use:
 
