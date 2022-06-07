@@ -1,7 +1,7 @@
 <h1 align="center"># Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  , I'm Andri A.W! </h1>
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## 👨🏻‍💻 About Me:
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://domoiki.github.io/)**
