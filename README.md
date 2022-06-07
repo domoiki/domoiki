@@ -19,8 +19,7 @@
 - ⚡ Fun fact: I waste most of my time to watching anime and playing games
 
 ## 🛠️ Technologies and Tools I use:
-
-### Tools:
+   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
