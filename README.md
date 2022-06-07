@@ -1,4 +1,4 @@
-<h1 align="center"># Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  , I'm Andri A.W! Behera</h1>
+<h1 align="center"># Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  , I'm Andri A.W! </h1>
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 ### Tools:
