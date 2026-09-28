@@ -81,6 +81,18 @@ I'm not going to pretend typing the prompt is the hard part. The parts that actu
 
 ---
 
+## A few rules
+
+Rules I keep re-learning:
+
+- `console.log()` is not observability.
+- `display: none` is not authorization.
+- “It works on my machine” is not a deployment strategy.
+- Passing the prompt is not passing the test.
+- If AI wrote it, I still read it.
+
+---
+
 <p align="center">
   <sub>Built with a lot of AI, and a lot of fixing the AI's output.</sub>
 </p>
