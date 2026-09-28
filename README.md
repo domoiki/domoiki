@@ -2,7 +2,7 @@
 
 <p align="center">
   The AI writes most of it. I make it work, write the tests, and put it in production.<br>
-  Mostly TypeScript on serverless. Six of my projects are live right now.
+  Mostly TypeScript on serverless. Three of my projects are running right now.
 </p>
 
 <p align="center">
@@ -11,6 +11,8 @@
 </p>
 
 ---
+
+**Currently:** building a Telegram ⇄ AI gateway that survives a bad provider.
 
 ## Live right now
 
@@ -21,8 +23,10 @@ These aren't screenshots. Every one of these is deployed and clickable.
 | **`telegram-ai-gateway`** | Personal Telegram ⇄ AI gateway with a full ops console. An ordered chain of AI providers with automatic retry and fallback, a three-slot chat allowlist, and a per-request trace you read like a console log. | [telegram-ai-gateway.vercel.app](https://telegram-ai-gateway.vercel.app) |
 | **`absensi`** | Attendance app for small teams. One-tap check-in and check-out, leave requests, a donut chart of who made it in today, and an admin traffic dashboard. | [synx-absensi.vercel.app](https://synx-absensi.vercel.app) |
 | **`Toko-Joyo-Abadi`** | Point-of-sale and shop management. Transactions, stock, profit-and-loss reports, and a CSV export that opens correctly in Indonesian Excel. Installable as a PWA. | [synx-joyo.vercel.app](https://synx-joyo.vercel.app) |
-| **`synx-chat`** | The first iteration: a Telegram bot on OpenRouter with per-chat memory and a usage dashboard, on Vercel KV. | [synx-chat.vercel.app](https://synx-chat.vercel.app) |
-| **`synx-world`** <br> **`my-admin-dashboard`** | A card component library, and a plain-HTML admin dashboard. | [synx-world](https://synx-world.vercel.app) · [dashboard](https://my-admin-dashboard-bice.vercel.app) |
+
+Most of these were built for people who had to use them daily.
+
+**Also shipped:** **KasirKu** — an offline POS for UMKM, built in Flutter and released as an APK. [Source](https://github.com/domoiki/aplikasiku)
 
 Two details worth pointing at: the gateway keeps **115 unit tests** and encrypts every stored credential with **AES-256-GCM**; the POS hides cost price and profit from the cashier role **in the API response**, not by hiding a field in the UI.
 
@@ -40,6 +44,8 @@ Source for all of them is in the [repos tab](https://github.com/domoiki?tab=repo
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="30">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="30">
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="30">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" height="30">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="30">
   <br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
   <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" height="30">
@@ -55,8 +61,6 @@ Source for all of them is in the [repos tab](https://github.com/domoiki?tab=repo
 Things I'm poking at, not things I've shipped yet.
 
 <p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" height="26">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" height="26">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="26">
