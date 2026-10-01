@@ -97,6 +97,6 @@ Rules I keep re-learning:
 
 ---
 
-<p align="center">
+<p align="center"> 
   <sub>Built with a lot of AI, and a lot of fixing the AI's output.</sub>
 </p>
